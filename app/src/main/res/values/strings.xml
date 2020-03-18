@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">covid 19</string>
+    <string name="status_code_sent">code sent</string>
+    <string name="status_verification_failed">failed verification</string>
+    <string name="status_verification_succeeded">succeeded verification</string>
+    <string name="instant_validation">validation</string>
+    <string name="status_sign_in_failed">sign failed</string>
+    <string name="signed_out">signed out</string>
+    <string name="signed_in">signed in</string>
+    <string name="firebase_status_fmt">firebase</string>
 </resources>
