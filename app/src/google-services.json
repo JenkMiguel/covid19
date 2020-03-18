@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1052771240726",
+    "firebase_url": "https://covid19-a741a.firebaseio.com",
+    "project_id": "covid19-a741a",
+    "storage_bucket": "covid19-a741a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052771240726:android:7e619e446b4eddc3089e37",
+        "android_client_info": {
+          "package_name": "com.quimalabs.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052771240726-56r1ne3nek8g0bnobgjo1rd5fevso024.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvA97JgNiIkFZdLGxawaOUBdlP_xHDRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052771240726-56r1ne3nek8g0bnobgjo1rd5fevso024.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
